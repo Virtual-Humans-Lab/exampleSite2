@@ -1,0 +1,391 @@
+/*
+ * Author: Rodolfo M. Favaretto;
+ * style.css 
+ * 
+ */
+
+.pub-item {
+	text-align: justify;
+	font-size: 15px;
+	padding-bottom: 10px;
+}
+
+.alert-dataset{
+  color: #993366;
+  background-color: #FFCCFF;
+  border-color: #FF99FF;
+}
+
+.alert-dataset hr {
+  border-top-color: #FF99FF;
+}
+
+.btn-dataset {
+  color: #fff;
+  background-color: #993366;
+  border-color: #FF99FF;
+}
+
+.btn-dataset:focus,
+.btn-dataset.focus {
+  color: #fff;
+  background-color: #993366;
+  border-color: #122b40;
+}
+
+.btn-dataset:hover {
+  color: #fff;
+  background-color: #8E236B;
+  border-color: #204d74;
+  }
+
+.btn-pub {
+	margin-right: 8px;
+	margin-left: 0px;
+}
+
+.alert-press{
+  color: #444;
+  background-color: #E5E5E5;
+  border-color: #999;
+}
+
+.alert-press hr {
+  border-top-color: #999;
+}
+
+.btn-press {
+  color: #fff;
+  background-color: #444;
+  border-color: #999;
+}
+
+.btn-press:focus,
+.btn-press.focus {
+  color: #fff;
+  background-color: #444;
+  border-color: #122b40;
+}
+
+.btn-press:hover {
+  color: #fff;
+  background-color: #333;
+  border-color: #204d74;
+  }
+
+
+.lab-founder {
+	padding-top: 10px;
+}
+
+
+.team-people {
+	padding-top: 0px;
+	margin-top: 2px;
+}
+
+
+.panel-aside {
+ 	height: 80px;
+ 	margin-right: 10px;
+ 	margin-left: 0px;
+  margin-bottom: 25px;
+  padding-left: 0px;
+ 	padding-top: 0px;
+ 	padding-bottom: 2px;
+ }
+
+
+.hr-footer {
+	margin: 25px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 1px;
+    text-align: center;
+}
+
+
+.gallery-item {
+	vertical-align: top;
+}
+
+
+.gallery-text {
+	font-size: 16px;
+}
+
+.press_release-text {
+	font-size: 16px;
+	text-align: justify;
+}
+
+.hr-about {
+ 	margin: 30px auto 30px;
+    padding-bottom: 10px;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 1px;
+    text-align: center;
+ 	margin: 25px auto 5px;
+ }
+
+.circle-footer {
+ 	width: 45px;
+ 	height: 45px;
+ 	padding-top: 9px;
+ 	padding-left: 0px;
+ 	padding-right: 0px;
+ 	border: 2px solid #333333;
+ 	background-color: #9D9D9D;
+ 	text-align: center;
+ }
+
+ .table-footer{
+ 	padding-right: 5px;
+ 	padding-left: 5px;
+ 	margin-right: 0px;
+ 	margin-left: 0px;
+ }
+
+.div-footer {
+	padding-top: 10px;
+	vertical-align: top;
+}
+
+
+.spam-footer {
+ 	font-size: 25px;
+ 	color: #333333;
+ }
+
+
+.row-centered {
+	text-align: center;
+	padding-top: 0px;
+}
+
+
+.footer-below {
+	padding-top: 15px;
+}
+
+
+.col-centered {
+	display: inline-block;
+    float: none;
+    padding-top: 0px;
+    margin-top: 0px;
+
+    /* reset the text-align */
+    text-align: center;
+
+    /* inline-block space fix */
+    margin-right: -4px;
+}
+
+.div-meio{
+    vertical-align: middle;
+}
+
+
+.container, .container-fluid {
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+
+.row {
+	margin-bottom: 0px;
+}
+
+
+.star-primary {
+    margin: 30px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
+}
+
+
+.star-gallery {
+    border-color: #A94442;
+}
+
+
+.star-team {
+    border-color: #31708F;
+}
+
+
+.star-projects {
+    border-color: #3C763D;
+}
+
+
+.star-publications {
+    border-color: #8A6D3B;
+}
+
+
+.star-datasets {
+    border-color: #5BC0DE;
+}
+
+.star-press_releases {
+	border-color: #000000;
+}
+
+
+.star-contact {
+    border-color: #E6E6E6;
+}
+
+
+.star-index {
+    border-color: #757575;
+}
+
+
+.star-primary:after {
+    content: "\f005";
+    display: inline-block;
+    position: relative;
+    top: -.6em;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+    background-color: #fff;
+}
+
+
+[class*="navbar-inverse"] {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	background-color: #222222;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+}
+
+
+div[role="topo"] {
+	background-color: #222222;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	height: 250px;
+	/* background-image: url(../../imgs/background.jpg);
+ 	background-repeat: repeat; */
+}
+
+
+div[role="brand"] {
+	padding-right: 10px;
+	padding-left: 35px;
+	height: 100%;
+}
+
+
+html,body  {
+	background-image: url(../imgs/back2.png);
+ 	background-repeat: repeat;
+}
+
+
+[class*="col-"], footer, aside, section, div[role="main"] {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-align: center;
+}
+
+
+div[role="center"] {
+	background-color: #ffffff;
+	height: 100%;
+}
+
+
+div[role="main"] {
+	background-color: #ffffff;
+}
+
+
+.minheight{
+	min-height: 800px;
+}
+
+
+div[role="team"] {
+	background-color: #ffffff;
+	text-align: left;
+}
+
+
+div[role="team-pic"] {
+	text-align: center;
+}
+
+
+div[role="team-about"] {
+	text-align: left;
+	margin-left: 0px;
+	padding-left: 0px;
+	vertical-align: middle;
+}
+
+
+h4[role="team-type"] {
+	padding-top: 22px;
+}
+
+
+aside {
+	text-align: center;
+	background-color: #ffffff;
+	height: 100%;
+}
+
+
+footer {
+	background-color: #222222;
+	color: #9D9D9D;
+}
+
+
+div[role="login"] {
+	margin-top: 100px;
+}
+
+
+div[role="access"] {
+	/* width: 222px; */
+}
+
+
+td {
+    padding: 15px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+
+div[role="panel-icon"] {
+	height: 125px;
+	vertical-align: middle;
+}
+
+
+div[role="panel-content"] {
+	height: 125px;
+	padding-top: 22px;
+	vertical-align: middle;
+}
+
+.font-panel {
+	font-size: 16px;
+}

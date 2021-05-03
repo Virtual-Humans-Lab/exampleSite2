@@ -1,0 +1,36 @@
+[26-Jan-2021 21:26:15 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[26-Jan-2021 21:26:15 America/Sao_Paulo] PHP Fatal error:  Call to undefined function mysqli_connect() in /home1/rmfav801/public_html/vhlab/datasets.php on line 8
+[26-Jan-2021 21:27:22 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[27-Jan-2021 04:53:31 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jan-2021 11:56:51 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jan-2021 13:23:18 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[27-Jan-2021 13:23:18 America/Sao_Paulo] PHP Fatal error:  Call to undefined function mysqli_connect() in /home1/rmfav801/public_html/vhlab/publications.php on line 8
+[27-Jan-2021 14:51:18 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[27-Jan-2021 14:51:18 America/Sao_Paulo] PHP Fatal error:  Call to undefined function mysqli_connect() in /home1/rmfav801/public_html/vhlab/datasets.php on line 8
+[27-Jan-2021 17:31:44 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[27-Jan-2021 19:32:43 America/Sao_Paulo] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[27-Jan-2021 19:32:43 America/Sao_Paulo] PHP Fatal error:  Call to undefined function mysqli_connect() in /home1/rmfav801/public_html/vhlab/team.php on line 8

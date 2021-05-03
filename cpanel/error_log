@@ -1,0 +1,14 @@
+[21-Mar-2020 15:40:11 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/rmfav801/public_html/vhlab/cpanel/panel_fragments/aside.php on line 24
+[01-Apr-2020 18:27:02 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/rmfav801/public_html/vhlab/cpanel/panel_fragments/aside.php on line 24
+[28-May-2020 12:28:05 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/rmfav801/public_html/vhlab/cpanel/panel_fragments/aside.php on line 24
+[29-May-2020 15:13:15 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/rmfav801/public_html/vhlab/cpanel/panel_fragments/aside.php on line 24
+[01-Jun-2020 13:02:22 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/rmfav801/public_html/vhlab/cpanel/panel_fragments/aside.php on line 24
+[01-Jun-2020 13:02:24 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/rmfav801/public_html/vhlab/cpanel/panel_fragments/aside.php on line 24
+[01-Jun-2020 13:02:30 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/rmfav801/public_html/vhlab/cpanel/panel_fragments/aside.php on line 24
+[01-Jun-2020 13:02:30 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/rmfav801/public_html/vhlab/cpanel/panel_fragments/aside.php on line 24
+[01-Jun-2020 13:02:36 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/rmfav801/public_html/vhlab/cpanel/panel_fragments/aside.php on line 24
+[04-Jun-2020 08:29:41 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/rmfav801/public_html/vhlab/cpanel/panel_fragments/aside.php on line 24
+[24-Aug-2020 18:36:25 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/rmfav801/public_html/vhlab/cpanel/panel_fragments/aside.php on line 24
+[25-Aug-2020 10:32:27 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/rmfav801/public_html/vhlab/cpanel/panel_fragments/aside.php on line 24
+[27-Aug-2020 22:51:04 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/rmfav801/public_html/vhlab/cpanel/panel_fragments/aside.php on line 24
+[20-Jan-2021 16:31:58 America/Sao_Paulo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/rmfav801/public_html/vhlab/cpanel/panel_fragments/aside.php on line 24
